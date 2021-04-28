@@ -1,0 +1,76 @@
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="shayportfolio.nl" resolutions="1x" timestamp="1619637683466">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="about-me.css" crc="4137146429" ref="about-me"/>
+    <file name="index.css" crc="372313504" ref="index"/>
+    <file name="contact.css" crc="4217450291" ref="contact"/>
+    <file name="projects.css" crc="514357808" ref="projects"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:contact:about-me:projects"/>
+    <file name="museutils.js" crc="340535759" ref="index:contact:about-me:projects"/>
+    <file name="whatinput.js" crc="86476730" ref="index:contact:about-me:projects"/>
+    <file name="museconfig.js" crc="4286661555" ref="index:contact:about-me:projects"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index:contact:about-me:projects"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:contact:about-me:projects"/>
+    <file name="require.js" crc="7928878" ref="index:contact:about-me:projects"/>
+    <file name="webpro.js" crc="4059564322" ref="projects"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="projects"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="projects"/>
+    <file name="touchswipe.js" crc="4075097462" ref="projects"/>
+  </folder>
+  <folder name="images">
+    <file name="logo.png" crc="3801720854" seo="true" ref="index:contact:about-me:projects">
+      <caption webpage="index" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="menu balk.png" crc="334039296" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="over mij20.png" crc="4036609618" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="project 10-crop-u355.png" crc="205185672" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="contact10.png" crc="158476075" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="background.jpg" crc="382957813" ref="index:contact:about-me:projects">
+      <caption webpage="index" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="u396-4.png" crc="53929417" ref="contact"/>
+    <file name="shay cv nederlandse version .jpg" crc="3877456304" seo="true" ref="contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="u961-4.png" crc="64974660" ref="about-me"/>
+    <file name="unnamed.jpg" crc="4021919853" seo="true" ref="about-me">
+      <caption webpage="about-me" alt=""/>
+    </file>
+    <file name="u411-4.png" crc="446837863" ref="projects"/>
+    <file name="u799-4.png" crc="53929417" ref="projects"/>
+    <file name="umilus portfolio materiaal-crop-u808.jpg" crc="3896655107" seo="true" ref="projects">
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="projects"/>
+    <file name="kubus portfolio materiaal.jpg" crc="3963864933" seo="true" ref="projects">
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="dummie portfolio materiaal.jpg" crc="203033910" seo="true" ref="projects">
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="shay_nobrow cover-1.jpg" crc="3778357533" seo="true" ref="projects">
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="projects"/>
+  </folder>
+  <file name="index.html" crc="109116595" seo="true" mt="1619637641563" redirect="true"/>
+  <file name="contact.html" crc="191558502" seo="true" mt="1619636263325" redirect="true"/>
+  <file name="about-me.html" crc="4219771926" seo="true" mt="1619637413692" redirect="true"/>
+  <file name="projects.html" crc="3900882581" seo="true" mt="1619634746768" redirect="true"/>
+</manifest>
